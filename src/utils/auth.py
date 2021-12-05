@@ -1,0 +1,1 @@
+def signToken(payload, secret, ):
